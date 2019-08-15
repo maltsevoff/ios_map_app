@@ -6,6 +6,11 @@ git clone https://github.com/maltsevoff/ios_map_app.git && open ios_map_app && o
 ```
 Run on your iPhone or Simulator.
 
+<div align="center">
+  <img src="https://github.com/maltsevoff/ios_map_app/blob/master/additional_media/general_video.gif" width="30%"/>
+  <img src="https://github.com/maltsevoff/ios_map_app/blob/master/additional_media/build_root.gif" width="30%"/>
+</div>
+
 <p>Below you see map view, point and history view.</p>
 <div align="center">
   <img src="https://github.com/maltsevoff/ios_map_app/blob/master/additional_media/map.png" width="30%"/>
